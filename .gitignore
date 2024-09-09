@@ -1,0 +1,10 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+Lib/
+etc/
+Scripts/
+share/
+Include/
+pyvenv.cfg
